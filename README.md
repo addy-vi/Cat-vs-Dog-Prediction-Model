@@ -62,4 +62,4 @@ This project demonstrates how to classify images of dogs and cats using **Mobile
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/your-username/dog-cat-classification-mobilenetv2.git
+git clone https://github.com/addy-vi/Cat-vs-Dog-Prediction-Model.git
